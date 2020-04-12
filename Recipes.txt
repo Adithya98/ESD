@@ -4,3 +4,7 @@ Welcome to the kitchen
 
 Pasta
 Noodles
+
+
+Pizza
+Beans
